@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-Hello Sda
 
-Nowa funkcjonalnoœæ:
-int = 0;
-=======
 Hello SDA
 
 Nowa funkcjonalnoœæ
-int = 0;
-boolean
-long
->>>>>>> newbranch
+private int = 0;
+boolean = true;
+long = 0.11111111;
+String = "abcd"
+
