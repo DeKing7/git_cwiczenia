@@ -1,4 +1,6 @@
-Hello World
+Hello SDA
 
-Nowa funkcjonalnoœæ:
+Nowa funkcjonalnoœæ
 int = 0;
+boolean
+long
