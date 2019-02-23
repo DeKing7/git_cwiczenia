@@ -1,5 +1,9 @@
-Zapomnij o spacji, nie uzywaj jej.
-Bez sapcji
-bEz spacji
+
+Pamietaj o spacji!
+Spacja
+Spacja
+Spacja
 ;
-int = 9876;
+
+Int = 1234;
+
