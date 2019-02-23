@@ -1,0 +1,7 @@
+Pamietaj o spacji!
+Spacja
+Spacja
+Spacja
+;
+
+Int = 1234;
