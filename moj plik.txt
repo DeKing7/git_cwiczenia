@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-Hello Sda
 
-Nowa funkcjonalnoœæ:
-int = 0;
-=======
 Hello SDA
 
 Nowa funkcjonalnoœæ
-int = 0;
+float = 90;
 boolean
 long
->>>>>>> newbranch
+
