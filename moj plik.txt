@@ -1,1 +1,4 @@
-Hello Sda
+Hello World
+
+Nowa funkcjonalnoœæ:
+int = 0;
