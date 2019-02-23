@@ -2,7 +2,10 @@
 Hello SDA
 
 Nowa funkcjonalnoœæ
-float = 90;
-boolean
-long
+
+private float = 90f;
+boolean = true;
+long = 0.11111111;
+String = "abcd"
+
 
