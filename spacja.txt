@@ -1,0 +1,5 @@
+Zapomnij o spacji, nie uzywaj jej.
+Bez sapcji
+bEz spacji
+;
+int = 9876;
